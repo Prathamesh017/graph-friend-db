@@ -1,1 +1,1 @@
-Graph Database Demo Application
+A Simple Graph DB Demo Application for understanding graph dbs
